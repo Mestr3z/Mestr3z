@@ -4,7 +4,6 @@
 
 ## My name is Vlad, I am engaged in frontend development
 
-- 🔭 I'm currently working on a weatherApp and a chessApp
 - 💬 Ask me about anything
 - 📫 How to reach me: Mestr3z on everywhere
 
